@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This includes react notes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niranjan-A-S/react-deep-dive.git"
+  },
+  "keywords": [
+    "react",
+    "akshay",
+    "saini"
+  ],
+  "author": "Niranjan A S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niranjan-A-S/react-deep-dive/issues"
+  },
+  "homepage": "https://github.com/Niranjan-A-S/react-deep-dive#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
