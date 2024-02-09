@@ -1,3 +1,7 @@
+import React from "react"
+import ReactDOM from "react-dom/client"
+
+
 //this is just a simple js object
 const heading = React.createElement(
     'h1',
@@ -35,4 +39,25 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 //This render method is responsible for converting the react object into html
 //!if root already has children it will be replaced
-root.render(parent);
+root.render(parent);    
+
+/**
+ *!Responsibilities of Parcel or any other bundler
+**Dev Build
+**Local Server
+**Hot Module Replacement
+**File Watching Algorithm written in C++
+**Bundling
+**Code splitting
+**Caching for faster builds
+**Image optimization
+**Minification
+**Compressing
+**Consistent Hashing
+**Differential Bundling to support older browsers
+**Diagnostics
+**Error Handling
+**HTTPS
+**Diagnostics
+**Tree Shaking - remove unused code 
+ */
