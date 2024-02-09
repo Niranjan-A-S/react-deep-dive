@@ -2,3 +2,9 @@
 react-source
  
 node_modules
+
+#parcel
+.parcel-cache
+
+#build files
+dist
