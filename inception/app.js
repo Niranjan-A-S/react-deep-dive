@@ -32,5 +32,7 @@ const parent = React.createElement(
 //!To solve this problem of nesting we have something called JSX
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
 //This render method is responsible for converting the react object into html
+//!if root already has children it will be replaced
 root.render(parent);
