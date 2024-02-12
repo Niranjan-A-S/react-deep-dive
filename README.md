@@ -16,6 +16,5 @@
 - Diagnostics
 - Error Handling
 - HTTPS
-- Diagnostics
 - Tree Shaking - remove unused code 
 - Differentiate build for production and development
