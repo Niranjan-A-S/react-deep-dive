@@ -1,6 +1,6 @@
-#Notes
+# Notes
 
-##Parcel
+## Parcel
 - Dev Build
 - Local Server
 - Hot Module Replacement
@@ -24,3 +24,8 @@
 - React uses the diffing algorithm to  find the difference between the current virtual DOM and updated virtual DOM and updates the DOM based on the differences.
 - This happens in every render cycle.
 - In React 16 this new way of finding the difference or this whole algorithm is termed as React Fiber.
+
+##  Microservices Architecture
+- All the services are put together or the code is tightly coupled in a monolithic architecture.
+- In Microservices each feature is the responsibility of each service. It follows the single responsibility principle or Separation of concerns.
+- And all these services interact with each other through configurations.
